@@ -1,0 +1,23 @@
+{
+  "service": {
+    "name": "/dept-b/spark-b",
+    "cpus": 1,
+    "mem": 1024,
+    "role": "*",
+    "service_account": "spark-b",
+    "service_account_secret": "spark-b-secret",
+    "user": "spark-a",
+    "docker-image": "mesosphere/spark:2.3.1-2.2.1-2-hadoop-2.6",
+    "log-level": "DEBUG",
+    "UCR_containerizer": false,
+    "use_bootstrap_for_IP_detect": false
+  },
+  "security": {
+    "kerberos": {
+      "enabled": false,
+      "kdc": {},
+      "krb5conf": ""
+    }
+  },
+  "hdfs": {}
+}
