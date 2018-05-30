@@ -6,7 +6,7 @@
     "role": "*",
     "service_account": "spark-a",
     "service_account_secret": "/dept-a/spark-a-secret",
-    "user": "root",
+    "user": "core",
     "docker-image": "mesosphere/spark:2.3.1-2.2.1-2-hadoop-2.6",
     "log-level": "INFO",
     "UCR_containerizer": false,
