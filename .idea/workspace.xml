@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389382ff-a943-4fc5-8da3-e691421f9562" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Installation/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Installation/build-user-enabled-docker-image.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-examples/run-ok-write-vol-a.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Installation/spark-a.json" beforeDir="false" afterPath="$PROJECT_DIR$/Installation/spark-a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-examples/run-simple-python.sh" beforeDir="false" afterPath="$PROJECT_DIR$/python-examples/run-simple-python.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-examples/simple-python.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-examples/simple-python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-examples/write-to-volume-a-python.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-examples/write-to-volume-a-python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-examples/run-ok-write-vol-a.sh" beforeDir="false" afterPath="$PROJECT_DIR$/python-examples/run-ok-write-vol-a.sh" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/python-examples/run-ok-write-vol-a.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="196" selection-start-line="2" selection-start-column="196" selection-end-line="2" selection-end-column="196" />
+              <caret line="2" column="216" selection-start-line="2" selection-start-column="216" selection-end-line="2" selection-end-column="216" />
             </state>
           </provider>
         </entry>
@@ -34,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/python-examples/write-to-volume-a-python.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -60,11 +54,11 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/python-examples/simple-python.py" />
-        <option value="$PROJECT_DIR$/python-examples/write-to-volume-a-python.py" />
         <option value="$PROJECT_DIR$/Installation/spark-a.json" />
         <option value="$PROJECT_DIR$/Installation/build-user-enabled-docker-image.sh" />
         <option value="$PROJECT_DIR$/Installation/Dockerfile" />
         <option value="$PROJECT_DIR$/python-examples/run-simple-python.sh" />
+        <option value="$PROJECT_DIR$/python-examples/write-to-volume-a-python.py" />
         <option value="$PROJECT_DIR$/python-examples/run-ok-write-vol-a.sh" />
       </list>
     </option>
@@ -193,7 +187,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527695527277</updated>
-      <workItem from="1527695539648" duration="13241000" />
+      <workItem from="1527695539648" duration="13742000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commits">
       <created>1527697033971</created>
@@ -223,11 +217,25 @@
       <option name="project" value="LOCAL" />
       <updated>1527708728661</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="misc updates">
+      <created>1527718008979</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527718008979</updated>
+    </task>
+    <task id="LOCAL-00006" summary="misc updates">
+      <created>1527718195219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1527718195219</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13241000" />
+    <option name="totallyTimeSpent" value="13742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1719" height="972" extended-state="6" />
@@ -305,7 +313,8 @@
     <MESSAGE value="Initial commits" />
     <MESSAGE value="Update python spark examples with service account" />
     <MESSAGE value="fixed python code errors." />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed python code errors." />
+    <MESSAGE value="misc updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="misc updates" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python-examples/write-to-volume-b-python.py">
@@ -391,14 +400,14 @@
     <entry file="file://$PROJECT_DIR$/python-examples/write-to-volume-a-python.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python-examples/run-ok-write-vol-a.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="196" selection-start-line="2" selection-start-column="196" selection-end-line="2" selection-end-column="196" />
+          <caret line="2" column="216" selection-start-line="2" selection-start-column="216" selection-end-line="2" selection-end-column="216" />
         </state>
       </provider>
     </entry>
