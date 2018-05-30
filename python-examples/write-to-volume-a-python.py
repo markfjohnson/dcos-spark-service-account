@@ -1,6 +1,6 @@
 import os
 
-print("hello world")
+print("hello world-file writer")
 file = open("testfile.txt","w")
 
 #file.write("Operating System: {}".format(os.uname()))
